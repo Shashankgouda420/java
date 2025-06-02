@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=Eclipse IDE for Enterprise Java and Web Developers - 2025-06
+StartupWMClass=Eclipse
+Exec=/home/madlab35/eclipse/jee-2025-06/eclipse/eclipse
+Categories=Development;IDE;
+Icon=/home/madlab35/eclipse/jee-2025-06/eclipse/icon.xpm
